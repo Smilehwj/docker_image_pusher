@@ -1,3 +1,4 @@
 nginx
 wyland/webhook-v1.0
 busybox
+mailserver/docker-mailserver
