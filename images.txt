@@ -1,4 +1,5 @@
 nginx
+nginx:1.19-alpine
 wyland/webhook-v1.0
 busybox
 mailserver/docker-mailserver
@@ -7,3 +8,10 @@ pytorch/pytorch
 atlassian/jira-software
 atlassian/jira-core
 atlassian/jira-servicemanagement
+redmine
+taigaio/taiga-back
+taigaio/taiga-front
+taigaio/taiga-events
+taigaio/taiga-protected
+rabbitmq:3.8-management-alpine
+postgres:12.3
