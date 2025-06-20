@@ -4,3 +4,6 @@ busybox
 mailserver/docker-mailserver
 ocsinventory/ocsinventory-docker-image
 pytorch/pytorch
+atlassian/jira-software
+atlassian/jira-core
+atlassian/jira-servicemanagement
