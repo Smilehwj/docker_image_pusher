@@ -1,1 +1,2 @@
-mattermost
+mattermost/mattermost-enterprise-edition:10.5.2
+postgresql:13-alpine
